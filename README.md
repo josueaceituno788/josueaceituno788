@@ -7,8 +7,9 @@
 :oncoming_automobile: **Me gusta Need For Speed Most Wanted**
 
 ### :zap: Actividad reciente
-<!---Start section-->
-<!---End section-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 
 
 ## Vias de contacto
