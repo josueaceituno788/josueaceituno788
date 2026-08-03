@@ -6,6 +6,11 @@
 
 :oncoming_automobile: **Me gusta Need For Speed Most Wanted**
 
+### :zap: Actividad reciente
+<!---Start section-->
+<!---End section-->
+
+
 ## Vias de contacto
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.josue.com)
