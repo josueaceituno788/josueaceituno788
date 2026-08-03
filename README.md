@@ -9,9 +9,6 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-
-
-
 ## Vias de contacto
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.josue.com)
